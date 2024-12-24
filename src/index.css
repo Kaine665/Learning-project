@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  padding: 0;
+
   box-sizing: border-box;
 }
 
@@ -14,8 +14,22 @@ body {
   min-height: 100vh;
 }
 
+.course-part h2,
+.plan-part h2 {
+  font-size: 2rem;
+  margin: 0.5rem auto;
+  text-align: center;
+}
+
 .card-container {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
+}
+
+.plan-part {
+  margin-top: 2rem;
+}
+.plan-container {
+  margin: 0 3rem;
 }

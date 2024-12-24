@@ -7,24 +7,6 @@ export const info = [
       url: "https://www.bilibili.com/video/BV1db4y1B7zT/?t=36",
       img: "./assets/img/gridtutorail.avif",
     },
-    // 保存和搜索资源
-    save_and_search: {
-      name: "None",
-      country: "",
-      origin: "University",
-      author: "",
-      subject: "",
-      // search
-      tags: [],
-    },
-    // 其他信息
-    learning_info: {
-      // 分集数量
-      episodeCount: "",
-      // 相关资源
-      src: [],
-      other: [],
-    },
   },
   {
     id: 2,
@@ -64,6 +46,14 @@ export const info = [
       title: "Grid 教程",
       url: "https://www.bilibili.com/video/BV1db4y1B7zT/?t=36",
       img: "./assets/img/gridtutorail.avif",
+    },
+  },
+  {
+    id: 7,
+    cover_info: {
+      title: "为面试设计的react练习",
+      url: "https://www.youtube.com/watch?v=5ZdHfJVAY-s",
+      img: "https://i.ytimg.com/vi/5ZdHfJVAY-s/hq720.jpg?sqp=-oaymwEnCNAFEJQDSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAm2fbW68hArrXu_It3xMs5g3wWpQ",
     },
   },
 ];
