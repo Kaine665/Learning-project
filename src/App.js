@@ -29,11 +29,10 @@ function App() {
                 </li>
 
                 <ol>
+                  <li>寻找js、react练习项目 </li>
                   <li>
-                    寻找js、react练习项目{" "}
-                    <span style={{ background: "yellow" }}>ing</span>
+                    做练习项目 <span style={{ background: "yellow" }}>ing</span>
                   </li>
-                  <li>做练习项目</li>
                   <li>
                     <details>
                       <summary>后续</summary>
