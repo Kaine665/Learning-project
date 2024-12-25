@@ -61,7 +61,7 @@ function App() {
                       把c语言看完。因为我学的计算机网络需要c语言
                       <ol>
                         <li>
-                          把c语言第一节课的练习在虚拟机做掉{" "}
+                          看完老师讲解第一节课练习
                           <span style={{ background: "yellow" }}>ing</span>
                         </li>
                       </ol>
