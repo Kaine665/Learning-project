@@ -31,7 +31,8 @@ function App() {
                 <ol>
                   <li>寻找js、react练习项目 </li>
                   <li>
-                    做练习项目 <span style={{ background: "yellow" }}>ing</span>
+                    做一个练习项目，测试其是否合适做{" "}
+                    <span style={{ background: "yellow" }}>ing</span>
                   </li>
                   <li>
                     <details>
