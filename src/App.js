@@ -75,8 +75,9 @@ function App() {
                 <li>
                   学习pytorch库。为了入门编写AI
                   <ol>
+                    <li>找一个合适的pytorch课程</li>
                     <li>
-                      找一个合适的pytorch课程{" "}
+                      看一个小时该课程，决定是否跟随学习
                       <span style={{ background: "yellow" }}>ing</span>
                     </li>
                   </ol>
